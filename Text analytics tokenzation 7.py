@@ -29,3 +29,6 @@ for w in tokenized_sent:
   if w not in stop_words:
     filtered_sent.append(w)
 print("tokenized Sentence:",tokenized_sent)
+
+
+nltk sentiment Analysis tutorial for beggners
